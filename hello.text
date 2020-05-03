@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <title>the meatshop </title>
+    <link rel="stylesheet"href="style.css">
+    </head>
+      <body>
+        <div>
+    <h1>  Welcom to the meatshop</h1>
+    <style>
+form{  text-align: center;}
+    </style>
+    <form>
+       <input type="text" placeholder="Full Name" name="name">
+       <button>Submit!</button>
+    </form>
+    <ul>  <img src="Asiprator Infinit 2.jpg"height="150"width="100"></ul>
+Meat list:
+<style>
+      ol, ul {color:red;}
+</style>
+  <ul>
+            <li> Beef stock </li>
+            <li> Goat Stock </li>
+            <li> Pork Stock </li>
+  </ul>
+Salesmen list:
+     <ol>
+        <li> Chikondi </li>
+        <li> Kesio </li>
+        <li> Ashort </li>
+      </ol>
+<h2>Bubget</h2>
+<style>
+
+table {
+  border:2px solid black;
+  border-collapse: collapse;
+  width: 50%;
+  text-align: center;
+}
+th,td {
+  border:1px solid black;
+  padding: 10px;
+}
+th{
+  background-color: lightblue;
+}
+
+</style>
+ <table>
+   <tr>
+      <th>Bills</th>
+      <th>Project cost </th>
+      <th>Project actual</th>
+   </tr>
+   <tr>
+      <td>electricity</td>
+      <td>$400.95 </td>
+      <td>$350.50</td>
+   </tr>
+   <tr>
+      <td>water</td>
+      <td>$250.95 </td>
+      <td>$650.50</td>
+   </tr>
+
+</table>
+     </div>
+ </body>
+</html>
