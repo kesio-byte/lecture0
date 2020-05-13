@@ -1,0 +1,24 @@
+
+h1 {
+    color:#f5f7f2;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    font-size: 34px;
+    font-weight: bold;}
+  h2 {
+        color:#f5f7f2;
+        text-align: left;
+        font-family: Arial, sans-serif;
+        font-size: 24px;
+        font-weight: bold;
+    }
+div {
+       background-color: teal;
+       width: 100%auto;
+       margin: 30px;
+       padding:20px;
+       font-family: Arial, sans-serif;
+     }
+     a:hover {
+       background-color: yellow;
+     }
